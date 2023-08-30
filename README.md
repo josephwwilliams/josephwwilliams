@@ -1,6 +1,6 @@
 ## HELLO! 🤺
 
-I'm Joseph Williams a software engineer at Biokyowa, currently attending a back end course at Codefi to further improve my skills. I enjoy programming and learning new technologies.
+I'm Joseph Williams a software developer at Vintage Software, currently teaching and mentoring a full stack course at Codefi to further improve the skills and opportunities of my students. I enjoy programming and learning new technologies.
 
 ### 🌱 I'm currently learning...
 - Best API development practices and good documentation.
